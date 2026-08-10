@@ -8,7 +8,7 @@ h1 {
 p {
     color: darkblue;
     font-size: 24px;
-    font-family: Arial, sans-serif;
+    
 }
 .clickable-box {
   display: block; /* Makes the anchor behave like a box container */
