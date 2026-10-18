@@ -38,6 +38,7 @@ p {
   outline: 2px black solid; /* Adds a black outline */
   text-decoration: none; /* Removes text underlines */
   color: #333;
+  height: 400px;
   transition: transform 0.2s, border-color 0.2s;
   margin: 20px 20px; /* Adds space between boxes */
   background-image: linear-gradient(rgb(114, 147, 255, 0.7), rgba(0, 0, 255, 0.7)), var(--background-image, url("wholeapplebatfact.webp"));
