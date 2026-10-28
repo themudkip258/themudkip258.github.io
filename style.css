@@ -82,3 +82,11 @@ p {
   border-radius: 8px;
   border-color: darkblue;
 }
+.center-video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid darkblue;
+  border-radius: 8px;
+  border-color: darkblue;
+}
